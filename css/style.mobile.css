@@ -1,0 +1,68 @@
+/* index html */
+.header nav h1 {
+  float: none;
+  text-align: center;
+}
+
+.header nav ul {
+  float: none;
+}
+.header nav ul li {
+  float: none;
+}
+.header nav ul li a {
+  padding: 10px;
+  text-align: center;
+}
+
+/* vp */
+.vp {
+  padding-top: 50px;
+}
+
+.vp-content h1 {
+  font-size: 2rem;
+}
+/* Features */
+.feature {
+ float: none;
+ width: 100%;
+ margin-bottom: 2rem;
+}
+
+/* where html */
+.where {
+  padding: 70px 1px;
+  min-height: 100vh;
+}
+.where-text {
+  float: none;
+  width: 85%;
+}
+
+.container {
+  display: flex;
+  margin: 1px;
+  flex-direction: column;
+  align-items: center;
+}
+.where-img {
+  
+  width: 80%;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+h3 {
+  margin: 50px 2px;
+}
+
+/* contact html */
+.contact-form-container {
+  
+  margin: 30px 15px;
+}
+.contact-form-container form h1{
+  font-size: 1rem;
+}
+
+
